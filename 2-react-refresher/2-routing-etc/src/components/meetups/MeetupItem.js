@@ -1,7 +1,7 @@
 import style from './MeetupList.module.css';
 import Card from '../ui/Card';
 
-const MeetupItem = ({ id, title, image, address, description }) => (
+const MeetupItem = ({ title, image, address, description }) => (
 	<li className={style.item}>
 		<Card>
 			<div className={style.image}>

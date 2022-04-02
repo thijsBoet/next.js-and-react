@@ -5,7 +5,6 @@ import AllMeetups from './pages/AllMeetups';
 import NewMeetup from './pages/NewMeetup';
 import Favorites from './pages/Favorites';
 
-
 const App = () => {
 	return (
 		<Layout>
